@@ -3,8 +3,10 @@
 
 
 main() {
-    local repo_root="$(realpath $(dirname "$0")/..)"
-    local slideshows_dir="$repo_root/slideshows" 
+    local repo_root="$(dirname "$0")/.."
+    cd "$repo_root" || exit 1
+
+    local slideshows_dir="slideshows" 
     local output_index_file="index.html"
 
     cd "$slideshows_dir" \
@@ -14,8 +16,7 @@ main() {
         -printf "<p><a href=$slideshows_dir/%P/index.html>%P</a></p>\n"
     )" || exit 1
 
-    cd "$repo_root" \
-        || exit 1
+    cd - || exit 1
 
     printf "\
 <!doctype html>
