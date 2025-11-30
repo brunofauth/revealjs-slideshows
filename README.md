@@ -27,4 +27,6 @@ THIS REPO WAS INSPIRED IN THE IDEAS PUBLISHED IN
 5. Take a peek at `slideshows/<dir-you-created>/index.html` to see if any
    secrets have leaked
 
-6. add, commit and push
+6. run `scripts/mkindex`
+
+7. add, commit and push
