@@ -1,0 +1,15 @@
+#! /bin/sh
+# vim: ft=sh
+
+
+main() {
+    local input_file="$1"
+    sed --in-place \
+        --expression 's|https://unpkg.com/reveal.js@[0-9.]\+|../../reveal.js|' \
+        --expression 's|<!--.*-->||g' \
+        "$input_file"
+}
+
+
+main "$@"
+
