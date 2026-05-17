@@ -653,6 +653,25 @@ eficácia em um ECR também. Naltrexona foi ineficaz.
 
 # Transtorno de Escoriação
 
+## Visão Geral
+
+**cf. DSM-5:** comportamento de beliscar a pele recorrentemente, acarretando
+lesões; com tentativas repetidas de reduzir ou parar com isso, causando
+sofrimento clínico significativo.
+
+**Subtipos:** automático (acontece em paralelo com outras atividades) e focado
+(é consciente e visa aliviar emoções negativas e pensamentos disfuncionais).
+
+Alguns autores defendem que pode haver fissura que antecede o comportamento e
+alívio/gratificação após a escoriação.
+
+
+## Tratamento
+
+- No âmbito da psicoterapia, foi demonstrado eficácia de tratamentos
+  comportamentais, especialmente a TRH (similar à TTM).
+
+
 # Transtorno de Acumulação Compulsiva
 
 # Transtorno Dismórfico Corporal
