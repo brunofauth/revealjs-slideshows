@@ -36,7 +36,7 @@ pandoc_options="$pandoc_options --standalone"
 # Headings above this level in the hierarchy are used to divide the slide show
 # into sections; headings below this level create subheads within a slide. 
 # --> pandoc(1) § Structuring the slide show
-pandoc_options="$pandoc_options --slide-level=2"
+pandoc_options="$pandoc_options --slide-level=3"
 
 
 cmd_notify_send=notify-send

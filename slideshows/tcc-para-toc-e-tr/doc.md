@@ -369,8 +369,7 @@ disfuncional de lida) perpetua a doença.
 2. Explicar como a TCC funciona: fundamentos, metas, tarefas...
     - Explicar sobre *habituação* e EPR --> é ruim, mas passa
     - Explicar que tudo é no tempo dele, que as tarefas não são leões.
-
-Se paciente pouco motivado com a TCC, fazer entrevista motivacional.
+3. Se paciente pouco motivado com a TCC, fazer entrevista motivacional.
 
 :::
 
@@ -458,22 +457,6 @@ leves da lista, para fazer em casa/na rua/no trabalho.
 
 São mais eficazes para sintomas evitativos ou de rituais.
 
-<<<<<<< HEAD
-::: incremental
-
-
-:::
-
-
-### Processos-chave
-
-- Neurogênese
-
-- Sinaptogênese
-
-- Eliminação competitiva das sinapses (poda)
-
-=======
 **Exposição:** contato direto ou imaginário com aquilo que ativa o desconforto.
 
 - Pode ser usada contra a incerteza que antecede as verificações compulsivas.
@@ -589,7 +572,7 @@ Para prevenir recaídas, o paciente deve:
 3. ter a percepção de não executar de forma automática os rituais
 
 
-# Tricotilomania
+# Trico-tilomania
 
 ## Visão Geral
 
@@ -671,8 +654,166 @@ alívio/gratificação após a escoriação.
 - No âmbito da psicoterapia, foi demonstrado eficácia de tratamentos
   comportamentais, especialmente a TRH (similar à TTM).
 
+- Uma metanálise mostrou benefício em fazer tratamento (qualquer), fazer
+  terapia (TRH, ACT, TCC), usar ISRS e usar lamotrigina, mas todos com nível
+  baixo de evidência (intervalo de confiança amplo e que cruza o 1).
+
+
+# Transtorno Dismórfico Corporal
+
+## Panorama
+
+- Prevalência de cerca de 2% na população geral, mas até 25% em serviços de
+  cirurgia estética ou dermatologia.
+    - prevalência de até 80% de IS e 25% TS nesses pacientes
+
+- Até ¹/₃ dos casos não tem crítica de que a preocupação é desproporcional e
+  tem origem emocional
+
+
+## Panorama
+
+- Sintoma central: preocupação com um ou mais defeitos ou falhas percebidas na
+  aparência que não são observáveis ou parecem leves às pessoas.
+    - consequência: ato repetitivo de olhar no espelho, arrumar, beliscar a
+      pele, ficar se comparando a outras pessoas, tentar esconder/corrigir o
+      problema.
+
+- No contexto do TOC, ter TDC junto pode sinalizar maior morbidade: ser
+  desempregado, apresentar mais comorbidade com depressão, fazer uso de SPAs
+
+
+## Tratamento Farmacológico
+
+- Tem-se estudos para Citalopram, Fluoxetina, Fluvoxamina, Escitalopram,
+  Clomipramina e Desipramina, mas só o estudo da Fluoxetina é ECR.
+    - Clomipramina foi superior à Desipramina --> sugere-se maior benefício com
+      drogas serotoninérgicas.
+
+- Pacientes com sintomas delirantes --> sugere-se que respondem aos
+  serotoninérgicos da mesma maneira que os não-delirantes, de modo que deve-se
+  preferir não acrescentar antipsicótico.
+
+
+## Terapia Cognitivo-comportamental
+
+### Evidências
+
+Uma metanálise mostrou que a TCC é eficaz no tratamento do TDC e
+  na melhora na falta de insight ou pensamento delirante, e no quadro de
+  sintomas depressivos associados.
+
+
+### Procedimento
+
+1. Psicoeducação acerca do TDC e do modelo cognitivo-comportamental do funcionamento do paciente.
+    - Listagem de comportamentos que contribuem e mantêm os sintomas
+2. Entrevista motivacional
+3. Reestruturação cognitiva: entender as avaliações e crenças distorcidas sobre
+   os defeitos imaginários e questioná-las por meio de técnicas cognitivas.
+4. Exposição + preveção de resposta
+5. Treinamentos no espelho: olhar e descrever, sem julgar
+
 
 # Transtorno de Acumulação Compulsiva
 
-# Transtorno Dismórfico Corporal
->>>>>>> f5a6633 (tcc toc)
+## Panorama
+
+- **Característica central:** dificuldade persistente de descartar ou de se
+  desfazer de pertences, independentemente do valor real deles.
+    - Acompanha ideias de que "vai precisar".
+    - Alguns podem se sentir gratificados pelo fato de acumular em si.
+    - Pode haver "acumulação de animais" também.
+
+- O desconforto está associado ao descarte dos obsejtos enão é precedido por
+  obsessão, não é ritualístico/estereotipado
+
+
+## Panorama
+
+::: incremental
+
+- ddif. TAC x TOC:
+    - no TOC, há compulsões com outros aspectos da vida também
+    - no TOC, o acumular está claramente ligado a uma obsessão
+    - no TOC, o acumular resulda de indecisão/medo de errar
+    - no TOC, o acúmulo é egodistônico
+    - no TOC, há desinteresse pelos itens acumulados
+
+:::
+
+
+## Tratamento Farmacológico
+
+- Contexto: sintomas de acumulação são preditores de má resposta ao tratamento no TOC
+
+- TAC é um transtorno "novo" --> pouco estudo focado nele
+- Uma revisão recente mostrou algum benefício com Paroxetina (32 pacientes) e Venlafaxina (24 pacientes).
+
+
+## Terapia Cognitivo-comportamental
+
+- "Pacientes com TAC são muito difíceis de tratar".
+    - Não buscam tratamento por conta própria
+    - não têm insight, negam a doença
+    - doença egossintônica ou, até, "prazerosa"
+    - Resultado --> recusa ao tratamento, falta de adesão
+
+- evidências de eficácia: metanálise de 2015 mostrou que a TCC é eficaz e com
+  grande tamanho de efeito, com impacto maior na dificldade de descarte e menor
+  na aquisição de objetos.
+
+
+## Terapia Cognitivo-comportamental
+
+- A TCC é a terapia mais estudada para o TAC
+    - No início, se usava EPR, com enfoque no descarte, mas adesão era limitada
+
+- Método Steketee e Frost (resultados promissores desde que haja adesão):
+    1. entrevistas motivacionais
+    2. Sessões no consultório e na casa do paciente
+    3. treino de habilidades
+    4. exposição a classificar/descartar/não adquirir
+    5. reestruturação cognitiva
+    6. treinamento de organização/alocação de objetos.
+
+
+## Aplicação na Prática
+
+1. Motivar o paciente para o tratamento: psicoeducação, balança decisória,
+   analisar grau de interferência no funcionamento da casa
+    - O paciente tem que aprender a ver sua situação como compulsão por
+      acumular e dificuldade em descartar
+
+2. Estabelecer metas em conjunto com o paciente, como:
+    - reduzir a bagunça
+    - definir a finalidade de cada cômodo da casa
+    - descarte de pertences que não saiba de imediato como "serão úteis"
+    - ordenar os pertences para que fiquem imediatamente acessíveis
+
+
+## Aplicação na Prática
+
+### Metas para o Descarte
+
+- Antes de iniciar, ter registros (fotos) de como era antes do tratamento, para
+  que fique mais concreto ao paciente e ao terapêuta o progresso.
+
+- Solicitar ao paciente que imagine como seria sua casa ideal e como seria cada
+  um dos cômodos... "e como podemos fazer para nos aproximarmos disso"?
+
+
+### Realização do Descarte
+
+- Antes de fazer, decidir: o que será feito com os objetos (lixo? doação), como
+  isso será feito, que recursos serão necessários para que isso seja
+  concretizado.
+
+- Regras do procedimento:
+    - o paciente decide o destino dos seus pertences
+    - o terapêuta e os familiares só devem tocar nos objetos se o paciente pedir ajuda.
+    - decidir se o descarte será feito por cômodo ou por tipo de item.
+        - Uma vez começado um cômodo ou tipo, ir até o fim antes de iniciar outro.
+    - uma vez encaixotados, não se deve voltar a olhar aos pertences
+    - após o "mutirão", fazer algo prazeroso
+
